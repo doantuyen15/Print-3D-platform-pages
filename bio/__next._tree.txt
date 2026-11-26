@@ -1,0 +1,13 @@
+:HL["/Print-3D-platform-pages/_next/static/chunks/0jdvkttgv64ch.css","style"]
+:HC["/",""]
+:HL["/Print-3D-platform-pages/figures/monarch-painted.webp","image"]
+:HL["/Print-3D-platform-pages/figures/wukong-painted.webp","image"]
+:HL["/Print-3D-platform-pages/figures/valkyrie-painted.webp","image"]
+:HL["/Print-3D-platform-pages/figures/ranni-painted.webp","image"]
+:HL["/Print-3D-platform-pages/figures/raiden-painted.webp","image"]
+:HL["/Print-3D-platform-pages/figures/gojo-painted.webp","image"]
+:HL["/Print-3D-platform-pages/figures/kitsune-painted.webp","image"]
+:HL["/Print-3D-platform-pages/figures/chibi-painted.webp","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"bio","h":64,"c":"$Q2"}]]
+0:{"b":"QIx1Vx7nZuAFwDckhRd5T","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

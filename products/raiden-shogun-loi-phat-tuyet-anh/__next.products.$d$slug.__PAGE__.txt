@@ -1,0 +1,31 @@
+2:"$Sreact.fragment"
+3:"/Print-3D-platform-pages/_next/static/chunks/0oc1js8uvcq6r.js"
+4:I[5305,["$3"],"default"]
+5:I[43468,["$3"],"default"]
+c:"/Print-3D-platform-pages/_next/static/chunks/3oynm0ohl0qt5.js"
+d:"/Print-3D-platform-pages/_next/static/chunks/1kbj6wx0xsd28.js"
+e:"ProductDetailClient"
+f:I[92355,["$3","$c","$d"],"$e"]
+10:I[1224,["$3"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[1224,["$3"],"$14"]
+16:"MetadataBoundary"
+17:I[1224,["$3"],"$16"]
+18:I[52822,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","$Lf",null,{"product":{"id":"prod-raiden-05","slug":"raiden-shogun-loi-phat-tuyet-anh","name":"Raiden Shogun — Lôi Phạt Tuyệt Ảnh","series":"Inazuma Sovereign","sculptStudio":"ekuaZ Studio × Atelier Saigon","painterLead":"Artist Linh Đan","resinSpec":"Resin 12K + Vòng Lôi Luân Clear Tím Phủ Kim Tuyến Ngọc Trai","shortDescription":"Tà kimono sơn chuyển sắc tím hoàng gia sang chàm sâu, vòng Lôi Luân sau lưng đúc nhựa trong suốt tán xạ ánh sáng.","description":"Hoa văn trang phục được kẻ tay tỉ mỉ bằng sơn nhũ vàng Champagne. Thanh Musou Isshin rút khỏi ngực sử dụng nhựa trong suốt pha hiệu ứng điện quang.","tags":["Sơn Ngọc Trai","Clear Electro"],"coverImage":"/Print-3D-platform-pages/figures/raiden-painted.webp","rawClayImage":"/Print-3D-platform-pages/figures/raiden-raw.webp","paintedImage":"/Print-3D-platform-pages/figures/raiden-painted.webp","heroBgImage":"/Print-3D-platform-pages/hero-bg/raiden-bg.webp","cosplayImage":"/Print-3D-platform-pages/cosplay/raiden-cosplay.webp","cosplayCaption":"Inazuma • Electro","galleryImages":["/Print-3D-platform-pages/figures/raiden-painted.webp","/Print-3D-platform-pages/figures/raiden-raw.webp"],"sculptArchetype":"CELESTIAL_VALKYRIE","primaryAccentHex":"#5B3E82","secondaryAccentHex":"#C29B56","variants":[{"sku":"RDN-16-DLX","scale":"1/6","heightCm":35,"finishType":"DELUXE_OSL","finishLabel":"Deluxe Kimono Ngọc Trai + Lôi Luân Phát Sáng","priceVnd":4950000,"depositPercent":40,"saleMode":"PRE_ORDER","stockQty":0,"maxSlots":10,"bookedSlots":7,"estimatedShipDate":"2026-12-18"},{"sku":"RDN-18-STD","scale":"1/8","heightCm":26,"finishType":"PAINTED_STD","finishLabel":"Tô màu Tiêu chuẩn","priceVnd":2950000,"depositPercent":100,"saleMode":"IN_STOCK","stockQty":3,"maxSlots":0,"bookedSlots":0}],"isPublished":true,"featured":true,"createdAt":"2026-11-14T09:00:00.000Z","updatedAt":"2026-11-16T09:00:00.000Z"},"defaultShippingFee":45000}],[["$","script","script-0",{"src":"/Print-3D-platform-pages/_next/static/chunks/3oynm0ohl0qt5.js","async":true}],["$","script","script-1",{"src":"/Print-3D-platform-pages/_next/static/chunks/1kbj6wx0xsd28.js","async":true}]],["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"raiden-shogun-loi-phat-tuyet-anh","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"products","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ATELIER 3D — Mô Hình Figure Resin 12K Tô Màu Thủ Công"}],["$","meta","1",{"name":"description","content":"Không gian trưng bày & đặt chế tác Figure 3D Resin 12K tô màu thủ công chuẩn Studio. Xoay 3D 360°, đặt cọc VietQR SePay, duyệt ảnh thực tế trước khi giao."}],["$","link","2",{"rel":"icon","href":"/Print-3D-platform-pages/icon.svg?icon.2ttv_761mgdx3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","3",{}]]}]}],null]}],null]}],"p":"$@19","v":null,"s":"$8"}},"a":"$@1a","u":"$@1b","b":"QIx1Vx7nZuAFwDckhRd5T"}
+12:null
+1b:true
+8:300
+8:C
+1a:0
+a:"$undefined"
+6:"$undefined"
+19:"$undefined"
+13:"$undefined"

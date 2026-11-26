@@ -1,0 +1,31 @@
+2:"$Sreact.fragment"
+3:"/Print-3D-platform-pages/_next/static/chunks/0oc1js8uvcq6r.js"
+4:I[5305,["$3"],"default"]
+5:I[43468,["$3"],"default"]
+c:"/Print-3D-platform-pages/_next/static/chunks/3oynm0ohl0qt5.js"
+d:"/Print-3D-platform-pages/_next/static/chunks/1kbj6wx0xsd28.js"
+e:"ProductDetailClient"
+f:I[92355,["$3","$c","$d"],"$e"]
+10:I[1224,["$3"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[1224,["$3"],"$14"]
+16:"MetadataBoundary"
+17:I[1224,["$3"],"$16"]
+18:I[52822,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","$Lf",null,{"product":{"id":"prod-chibi-04","slug":"linh-ho-cuu-vy-chibi-da-quang","name":"Linh Hồ Cửu Vỹ — Chibi Đèn Từ Tính","series":"Atelier Petite Objet","sculptStudio":"Atelier Saigon Exclusive","painterLead":"Team Studio","resinSpec":"Resin ABS-Like Chống Va Đập + Đuôi Clear Pastel","shortDescription":"Dòng Petite Chibi cao 14cm đặt bàn làm việc, tích hợp đèn ấm bật/tắt không dây bằng nam châm, sẵn hàng giao trong 24h.","description":"Mẫu Chibi độc quyền do xưởng điêu khắc số ZBrush, tối ưu cho không gian bàn làm việc hoặc quà tặng sưu tầm. Chín chiếc đuôi đúc Clear Resin pha màu pastel chuyển sắc dịu mắt.","tags":["Giao Ngay 24H","Đèn Từ Tính"],"coverImage":"/Print-3D-platform-pages/figures/chibi-painted.webp","rawClayImage":"/Print-3D-platform-pages/figures/chibi-raw.webp","paintedImage":"/Print-3D-platform-pages/figures/chibi-painted.webp","heroBgImage":"/Print-3D-platform-pages/hero-bg/chibi-bg.webp","cosplayImage":"/Print-3D-platform-pages/cosplay/chibi-cosplay.webp","cosplayCaption":"Cửu Vỹ • Spirit Fox","galleryImages":["/Print-3D-platform-pages/figures/chibi-painted.webp","/Print-3D-platform-pages/figures/chibi-raw.webp"],"sculptArchetype":"CHIBI_SPIRIT","primaryAccentHex":"#BA5B78","secondaryAccentHex":"#588EA8","variants":[{"sku":"FOX-CHIBI-STD","scale":"Chibi","heightCm":14,"finishType":"PAINTED_STD","finishLabel":"Tô màu Pastel Hoàn Thiện","priceVnd":790000,"depositPercent":100,"saleMode":"IN_STOCK","stockQty":12,"maxSlots":0,"bookedSlots":0},{"sku":"FOX-CHIBI-DLX","scale":"Chibi","heightCm":15,"finishType":"DELUXE_OSL","finishLabel":"Bản Đuôi Clear Có Đèn Cảm Ứng Từ Tính","priceVnd":1090000,"depositPercent":100,"saleMode":"IN_STOCK","stockQty":6,"maxSlots":0,"bookedSlots":0}],"isPublished":true,"featured":false,"createdAt":"2026-11-10T09:00:00.000Z","updatedAt":"2026-11-16T08:00:00.000Z"},"defaultShippingFee":45000}],[["$","script","script-0",{"src":"/Print-3D-platform-pages/_next/static/chunks/3oynm0ohl0qt5.js","async":true}],["$","script","script-1",{"src":"/Print-3D-platform-pages/_next/static/chunks/1kbj6wx0xsd28.js","async":true}]],["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"linh-ho-cuu-vy-chibi-da-quang","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"products","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ATELIER 3D — Mô Hình Figure Resin 12K Tô Màu Thủ Công"}],["$","meta","1",{"name":"description","content":"Không gian trưng bày & đặt chế tác Figure 3D Resin 12K tô màu thủ công chuẩn Studio. Xoay 3D 360°, đặt cọc VietQR SePay, duyệt ảnh thực tế trước khi giao."}],["$","link","2",{"rel":"icon","href":"/Print-3D-platform-pages/icon.svg?icon.2ttv_761mgdx3.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","3",{}]]}]}],null]}],null]}],"p":"$@19","v":null,"s":"$8"}},"a":"$@1a","u":"$@1b","b":"QIx1Vx7nZuAFwDckhRd5T"}
+12:null
+1b:true
+8:300
+8:C
+1a:0
+a:"$undefined"
+6:"$undefined"
+19:"$undefined"
+13:"$undefined"
